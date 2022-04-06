@@ -1,13 +1,12 @@
 #mainbody{
     margin-left: 40%;
-    margin-top: 20%;
+    margin-top: 10%;
     background: linear-gradient(#09792c,#790976);
     width: 300px;
     height: 375px;
     border: solid 8px;
     border-color: ghostwhite;
     border: radius 15px;
-    
 }
 #screen{
     border-width: 4px;
