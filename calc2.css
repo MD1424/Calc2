@@ -6,7 +6,7 @@
     height: 375px;
     border: solid 8px;
     border-color: ghostwhite;
-    border: radius 15px;
+    border-radius: 15px;
 }
 #screen{
     border-width: 4px;
